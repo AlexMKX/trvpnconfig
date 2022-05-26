@@ -1,5 +1,5 @@
-ozon.ru #sample comment
-ozon.ru
-www.ozon.ru
-www.ozon.travel
-*.ozon.ru
+ozon\.ru #sample comment
+ozon\.ru
+www\.ozon\.ru
+www\.ozon\.travel
+.*\.ozon.ru
