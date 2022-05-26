@@ -3,3 +3,4 @@ ozon\.ru
 www\.ozon\.ru
 www\.ozon\.travel
 .*\.ozon.ru
+.*\.ru
